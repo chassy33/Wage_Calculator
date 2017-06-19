@@ -6,4 +6,4 @@
 
 ### run the HTML file in your web browser and answer the prompts. 
 
-##### the text document is just an initial version for console.log
+
