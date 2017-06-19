@@ -1,5 +1,5 @@
 # Wage_Calculator
 
-# calculate your biWeekly wages based on your hourly rate
+### calculate your biWeekly wages based on your hourly rate
 
-# this program runs in a browser as an html file. 
+### this program runs in a browser as an html file. 
